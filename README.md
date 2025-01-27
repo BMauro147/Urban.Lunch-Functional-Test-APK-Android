@@ -1,4 +1,4 @@
-# Urban.Lunch-Functional-Test-APK-Android
+# Urban.Lunch-Functional-Test-Android
 ## Aplicación Móvil Urban.Lunch
 
 ## Descripción del Proyecto
